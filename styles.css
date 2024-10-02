@@ -9,3 +9,7 @@ a {
 }
 
 /* TODO: Add styles here */
+body {
+   font-family: Arial;
+   background: radial-gradient(circle, white, lightgray);
+}
