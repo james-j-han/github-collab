@@ -13,3 +13,9 @@ body {
    font-family: Arial;
    background: radial-gradient(circle, white, lightgray);
 }
+
+h1 {
+   color: darkblue;
+   padding: 8px;
+   text-shadow: 5px 5px 6px gray;
+}
